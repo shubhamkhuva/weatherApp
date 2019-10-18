@@ -1,4 +1,4 @@
-# weatherApp
+# Weather App
 
 Android	architecture	and	Components:	
 1.	MVP Architecture.	
