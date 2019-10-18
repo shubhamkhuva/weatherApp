@@ -8,3 +8,4 @@ Android	architecture	and	Components:
 5.	Java
 6.	Glide	for	Image	
 7.	Retrofit	for	Network	Access
+8.	AndroidX
