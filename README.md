@@ -12,5 +12,6 @@ Android	architecture	and	Components:
 
 ###### Demo
 
-![](https://github.com/shubhamkhuva/weatherApp/blob/master/screenshot/welcome.jpg)
-![](https://github.com/shubhamkhuva/weatherApp/blob/master/screenshot/main.jpg)
+Welcome                    |  Main Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/shubhamkhuva/weatherApp/blob/master/screenshot/welcome.jpg)  |  ![](https://github.com/shubhamkhuva/weatherApp/blob/master/screenshot/main.jpg)
