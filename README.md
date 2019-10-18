@@ -9,3 +9,8 @@ Android	architecture	and	Components:
 6.	Glide	for	Image	
 7.	Retrofit	for	Network	Access
 8.	AndroidX
+
+###### Demo
+
+![](https://github.com/shubhamkhuva/weatherApp/blob/master/screenshot/welcome.jpg)
+![](https://github.com/shubhamkhuva/weatherApp/blob/master/screenshot/main.jpg)
